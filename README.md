@@ -1,11 +1,17 @@
-
-<div align="center"><img align="center" alt="banner" height="400" width="500" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/></div>
 <h1 align="center">Hola 👋🏻, Soy Ángel Moreno Amoros</h1>
+<div align="center"><img align="center" alt="banner" height="400" width="500" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/></div>
 <h3 align="center">Desarrollador web, centrado en el front-end</h3>
 
 <br>
 
-🌱 I’m currently learning **React Native**.
+```js
+const angel = {
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Docker],
+}
+```
+
+🌱 I’m currently learning **React**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
