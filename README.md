@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋🏻, Soy Ángel Moreno Amoros</h1>
-<div align="center"><img align="center" alt="banner" height="400" width="500" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/></div>
+<div align="center"><img align="center" alt="banner" height="400" width="500" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif"/></div>
 <h3 align="center">Desarrollador web, centrado en el front-end</h3>
 
 <br>
